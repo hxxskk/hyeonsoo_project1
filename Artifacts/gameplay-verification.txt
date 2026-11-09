@@ -1,0 +1,1 @@
+PASS: harvest + same-day depletion; plant + water; resident + one gift per day; fishing mini-game; daily goals + single reward; market + insufficient funds; decoration + water/overlap constraints; next day + ripe harvest; JSON save round trip

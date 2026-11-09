@@ -1,0 +1,7 @@
+Windows x64 build: Succeeded
+Build size: 134802374 bytes
+Gameplay integration: 9 checks passed
+Unity runtime console: 0 errors, 0 warnings
+Standalone smoke: launched in batch mode without exceptions
+Visual check: 1440 x 900 game view verified
+Renderer: existing URP 2D retained
